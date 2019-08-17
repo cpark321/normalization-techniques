@@ -17,6 +17,7 @@
 4. [Group Normalization, Facebook AI Research, ECCV 2018]
 5. [Weight Standardization, Johns Hopkins University, 2019]
 6. [https://nealjean.com/ml/neural-network-normalization/](https://nealjean.com/ml/neural-network-normalization/)
+7. [http://mlexplained.com/2018/11/30/an-overview-of-normalization-methods-in-deep-learning/](http://mlexplained.com/2018/11/30/an-overview-of-normalization-methods-in-deep-learning/)
 
 [Batch Normalization, Google, ICML 2015]: http://proceedings.mlr.press/v37/ioffe15.pdf
 [Layer Normalization, University of Toronto, 2016]: https://arxiv.org/pdf/1607.06450.pdf
